@@ -1,9 +1,24 @@
 ﻿using System;
 
+/**
+    * Class Operation:
+    *   Calcul la remonté et la descente
+ */
+
 namespace Matrices
 {
     public class Operation
     {
+
+        /**
+        * 
+        * Methode Descente: Calcul descente d'une matrice triangulaire inferieure
+        *   
+          @param double[,] tab : la matrice L triangulaire inferieure
+          @param double[] sol : le vecteur solution de la matrice de depart
+        * 
+          @return double[] y : le vecteur solution resultant de la descente
+        */
         public static double[] Descente(double[,] tab, double[] sol)
         {
             int n = 3;
@@ -27,6 +42,17 @@ namespace Matrices
             return y;
         }
 
+        /**
+          * 
+          * Methode Remonte: Remonte de la matrice U avec comme solution le vecteur Y resultant
+          *                  de la descente de la matrice L
+          *   
+          * @param double[,] tab : la matrice U triangulaire superieur
+            @param double[] sol : le vecteur solution resultant de la descente
+          * 
+            @return double[] x : le vecteur solution resultant de la descente et au final 
+                                 le vecteur solution du systeme de depart
+         */
         public static double[] Remonte(double[,] tab, double[] sol)
         {
 
