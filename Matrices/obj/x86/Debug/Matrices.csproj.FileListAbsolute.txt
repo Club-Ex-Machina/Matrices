@@ -3,3 +3,8 @@
 /Users/omarmhaimdat/Matrices/Matrices/Matrices/obj/x86/Debug/Matrices.csproj.CoreCompileInputs.cache
 /Users/omarmhaimdat/Matrices/Matrices/Matrices/obj/x86/Debug/Matrices.exe
 /Users/omarmhaimdat/Matrices/Matrices/Matrices/obj/x86/Debug/Matrices.pdb
+/Users/omarmhaimdat/Matrices/Matrices/bin/Debug/Matrices.exe
+/Users/omarmhaimdat/Matrices/Matrices/bin/Debug/Matrices.pdb
+/Users/omarmhaimdat/Matrices/Matrices/obj/x86/Debug/Matrices.csproj.CoreCompileInputs.cache
+/Users/omarmhaimdat/Matrices/Matrices/obj/x86/Debug/Matrices.exe
+/Users/omarmhaimdat/Matrices/Matrices/obj/x86/Debug/Matrices.pdb
