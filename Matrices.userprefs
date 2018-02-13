@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{1CDE4F0F-406F-4EDB-A286-BA3D4AD74CF6}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Matrices/Program.cs">
     <Files>
-      <File FileName="Matrices/Program.cs" Line="41" Column="54" />
-      <File FileName="Matrices/Operation.cs" Line="2" Column="1" />
-      <File FileName="Matrices/Triangulation.cs" Line="5" Column="33" />
-      <File FileName="Matrices/InputOutput.cs" Line="10" Column="13" />
+      <File FileName="Matrices/Program.cs" Line="14" Column="35" />
+      <File FileName="Matrices/Operation.cs" Line="22" Column="60" />
+      <File FileName="Matrices/Triangulation.cs" Line="61" Column="1" />
+      <File FileName="Matrices/InputOutput.cs" Line="22" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
