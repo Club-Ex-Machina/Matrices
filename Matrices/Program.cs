@@ -10,7 +10,7 @@ namespace Matrices
         public static void Main(string[] args)
         {
             //Probleme du cours de Ramadane
-            double[,] A = { { 2, 3, -1 }, { 4, 4, -3 }, { -2, 3, -1 } };
+            double[,] A = { { 4, 2, -1 }, { 4, 4, -3 }, { -2, 3, -1 } };
             double[] B = { 5, 3, 1 };
 
             //La matrice A qui est donnée dans le probleme
